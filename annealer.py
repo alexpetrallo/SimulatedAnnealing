@@ -1,7 +1,5 @@
-#!/usr/bin/env python
+#Traveling salesman problem solved using Simulated Annealing.
 
-""" Traveling salesman problem solved using Simulated Annealing.
-"""
 import time
 from scipy import *
 from pylab import *
